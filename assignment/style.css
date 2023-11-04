@@ -11,8 +11,32 @@
 /* Change the font-family of your list */
 
 /* Add a background color to the footer element */
-header {background-color: deepskyblue;}
-main {background-color: rgba(240, 130, 225, 0.575);}
-h1 {text-align: center;}
-p {color: rgb(12, 215, 241)
-    ;}
+header {
+    background-color: deepskyblue;
+}
+
+main {
+    background-color: rgba(240, 130, 225, 0.575);
+}
+
+h1 {
+    text-align: center;
+}
+
+p {
+    color: rgb(12, 215, 241);
+    font-style: italic;
+}
+
+img {
+    border-style: dashed; 
+}
+
+ul {
+    font-family: cursive;
+}
+
+footer {
+    background-color: whitesmoke;
+}
+

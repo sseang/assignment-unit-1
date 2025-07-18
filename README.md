@@ -55,7 +55,7 @@ Inside of this folder, we've provided you with a few files, some of those files 
 - *assignment/style.css* (base functionality - required)
 - *assignment/checkpoints/terminal.txt* (base functionality - required)
 
-## 1) Edit the HTML
+## 1 Edit the HTML
 
 Inside of the `index.html` file are comments with tasks for you to complete. Write the code below the comment (no need to delete the comment), like this:
 
